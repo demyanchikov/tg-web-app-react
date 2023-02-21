@@ -12,7 +12,7 @@ function App() {
   }
   return (
     <div className="App">
-      work sadfsafa
+      work sadfsafa b  efgsdg
         <button onClick={onClose}>Закрыть</button>
         
     </div>
